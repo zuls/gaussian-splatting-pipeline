@@ -1,0 +1,21 @@
+# Output folders (trained models are large)
+output/
+
+# Dataset folders (too large)
+tandt/
+db/
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+build/
+dist/
+
+# Conda
+*.conda
+
+# IDE
+.vscode/
+.idea/
