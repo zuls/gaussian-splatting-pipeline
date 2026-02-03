@@ -38,5 +38,9 @@ CUDA_VISIBLE_DEVICES=1 python metrics.py -m ./output/<your_output_folder>
 
 ```
 
+Generated and Baseline image
+
+<img width="1855" height="624" alt="Screenshot 2026-01-19 at 6 22 53 PM" src="https://github.com/user-attachments/assets/16b78637-3228-4c60-8249-dd0d6c9dbf0c" />
+
 
 
